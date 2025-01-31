@@ -95,8 +95,11 @@ This project is a Full Stack Chat Application that combines a robust backend bui
   - WebSocket authentication for real-time functionality.  
 
 ## Future Enhancements    
-- Implement file sharing within chat rooms.  
+- Implement file sharing and video sharing within chat rooms.  
 - Enhance UI/UX with additional themes and layouts.
+- Membership/ Subscription
+- Testing
+- Deployment
 
 
 ## Contributions  
