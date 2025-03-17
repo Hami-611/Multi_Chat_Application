@@ -36,3 +36,4 @@ const useAxiosWithJwtInterceptor = () => {
   return jwtAxios;
 };
 export default useAxiosWithJwtInterceptor;
+
