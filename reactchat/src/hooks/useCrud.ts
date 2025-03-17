@@ -32,6 +32,7 @@ const useCrud = <T>(initalData: T[], apiURL: string): IuseCrud<T> => {
             throw error;
         }
     };
+    
 
     return {fetchData, dataCRUD, error, isLoading}
 }
